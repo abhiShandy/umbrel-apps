@@ -9,7 +9,7 @@ releaseNotes: >-
 developer: Abhishek Shandilya
 website: https://bit-table.vercel.app
 dependencies:
-  - mempool.space
+  - mempool
 repo: https://github.com/abhiShandy/bit-table
 support: https://github.com/abhiShandy/bit-table/discussions
 port: 3047

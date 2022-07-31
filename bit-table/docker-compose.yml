@@ -1,0 +1,14 @@
+version: "3.7"
+
+services:
+  app_proxy:
+    environment:
+      APP_HOST: 10.21.21.47
+      APP_PORT: 3047
+
+  web:
+    image: abhishandy/bit-table:v0.2.0
+    restart: on-failure
+    stop_grace_period: 1m
+    ports:
+      - 3000:3000

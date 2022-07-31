@@ -1,0 +1,19 @@
+manifestVersion: 1
+id: bit-table
+category: Accounting
+name: Bit Table
+version: "0.2.0"
+tagline: Private labeling and accounting for your Bitcoin transactions
+description: >-
+releaseNotes: >-
+developer: Abhishek Shandilya
+website: https://bit-table.vercel.app
+dependencies:
+  - mempool.space
+repo: https://github.com/abhiShandy/bit-table
+support: https://github.com/abhiShandy/bit-table/discussions
+port: 3047
+gallery:
+path: ""
+defaultUsername: ""
+defaultPassword: ""

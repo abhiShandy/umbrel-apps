@@ -1,0 +1,2 @@
+export APP_BIT_TABLE_IP="10.21.21.47"
+export APP_BIT_TABLE_PORT="3047"
